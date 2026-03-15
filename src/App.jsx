@@ -379,6 +379,31 @@ const Experience = () => {
                 "Built Kubernetes engine for WhatsApp business onboarding.",
                 "Designed high-throughput messaging systems for global scale."
             ]
+        },
+        {
+            company: "Chumbak Design",
+            role: "Software Engineer",
+            period: "Jan 2018 – Sept 2018",
+            points: [
+                "Developed REST APIs for the Chumbak platform using Python and Django.",
+                "Built an internal attendance monitor desktop application for employees."
+            ]
+        },
+        {
+            company: "DoubleSpring Media",
+            role: "Backend Developer",
+            period: "June 2017 – Jan 2018",
+            points: [
+                "Developed REST APIs in Python/Django for core products including CRM, HRM, and Project Management systems."
+            ]
+        },
+        {
+            company: "Concur Technologies (SAP)",
+            role: "Software Engineering Intern",
+            period: "May 2016 – July 2016",
+            points: [
+                "Developed a Unix/Linux CLI tool in Clojure to handle information security issues with cryptographic applications."
+            ]
         }
     ];
 
