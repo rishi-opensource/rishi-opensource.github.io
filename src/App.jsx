@@ -460,7 +460,7 @@ const Writing = () => {
             <div className="container-custom">
                 <div className="flex justify-between items-center mb-16">
                     <h2 className="text-3xl md:text-5xl font-bold">Writing</h2>
-                    <a href="https://medium.com/@rshkntshrm" target="_blank" className="text-primary flex items-center gap-2 font-semibold">
+                    <a href="https://medium.com/@rishi-tech" target="_blank" className="text-primary flex items-center gap-2 font-semibold">
                         Medium <ExternalLink size={18} />
                     </a>
                 </div>
@@ -469,7 +469,7 @@ const Writing = () => {
                     {posts.map((post, i) => (
                         <a
                             key={i}
-                            href="https://medium.com/@rshkntshrm"
+                            href="https://medium.com/@rishi-tech"
                             target="_blank"
                             className="block p-6 rounded-xl border border-white/5 bg-white/[0.02] hover:bg-white/[0.04] transition-all group"
                         >
@@ -518,7 +518,7 @@ const Contact = () => {
                             <a href="https://github.com/rishi-opensource" className="hover:text-white transition-colors flex items-center gap-2">
                                 <Github size={20} /> GitHub
                             </a>
-                            <a href="https://medium.com/@rshkntshrm" className="hover:text-white transition-colors flex items-center gap-2">
+                            <a href="https://medium.com/@rishi-tech" className="hover:text-white transition-colors flex items-center gap-2">
                                 <BookOpen size={20} /> Medium
                             </a>
                             <span className="flex items-center gap-2">
